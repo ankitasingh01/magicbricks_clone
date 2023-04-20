@@ -1,0 +1,28 @@
+.card-container {
+  .card-container-header {
+    .css-1qvr50w-MuiTypography-root {
+      font-size: 14px;
+      text-align: start;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 200px;
+    }
+    .css-nrdprl-MuiTypography-root {
+      font-size: 10px;
+      text-align: start;
+    }
+  }
+}
+
+p.css-r40f8v-MuiTypography-root {
+  text-align: start;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+// div > p {
+//   text-align: start;
+// }
